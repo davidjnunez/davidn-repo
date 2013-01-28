@@ -1,0 +1,30 @@
+{
+  "replacing": {
+  },
+  "groupings": {
+  },
+  "attributes": {
+  },
+  "description": "Installs/Configures davidn_cookbook",
+  "providing": {
+  },
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "license": "All rights reserved",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "version": "0.0.1",
+  "conflicting": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "maintainer": "YOUR_COMPANY_NAME",
+  "recipes": {
+    "davidn_cookbook::default": "Prints hello world output"
+  },
+  "recommendations": {
+  },
+  "dependencies": {
+  },
+  "name": "davidn_cookbook"
+}
